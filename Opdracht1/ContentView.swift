@@ -17,7 +17,7 @@ struct ContentView: View {
                 }
             )
             Text("You clicked \(timesClicked) times")
-        }
+        } 
     }
 }
 
